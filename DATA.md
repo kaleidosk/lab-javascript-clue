@@ -46,7 +46,7 @@ lastName: Scarlet
 occupation: Actor
 age: 31
 description: She is an A-list movie star with a dark past
-image: https://www.radiotimes.com/uploads/images/Original/111967.jpg
+image: https://www.radiotimes.com/uploads/images/Original/111967.jpg 
 color: red
 ```
 
